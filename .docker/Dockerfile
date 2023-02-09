@@ -7,6 +7,6 @@ RUN pip install --upgrade pip \
     mkdocstrings[python] \
     mkdocs-gen-files \
     mkdocs-literate-nav \
-    mkdocs-section-index
+    mkdocs-secn-index
 
 ENTRYPOINT ["mkdocs"]
